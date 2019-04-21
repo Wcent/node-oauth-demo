@@ -1,8 +1,8 @@
-A very simple demo of OAuth 2.0 using Node.js，to add GitHub login to your app and access GitHub API.
+A very simple demo of OAuth 2.0 using Node.js forked from [](https://github.com/ruanyf/node-oauth-demo)，to add GitHub login to your app and access GitHub API.
 
 ![](https://www.wangbase.com/blogimg/asset/201904/bg2019042103.jpg)
 
-This demo is slightly modified from sohamkamani's [node-oauth-example](https://github.com/sohamkamani/node-oauth-example). More details in his [blog](https://www.sohamkamani.com/blog/javascript/2018-06-24-oauth-with-node-js/) (English) or my [blog](http://www.ruanyifeng.com/blog/2019/04/github-oauth.html) (Chinese).
+This demo is slightly modified from sohamkamani's [node-oauth-example](https://github.com/sohamkamani/node-oauth-example). More details in his [blog](https://www.sohamkamani.com/blog/javascript/2018-06-24-oauth-with-node-js/) (English) or ruanyifeng's [blog](http://www.ruanyifeng.com/blog/2019/04/github-oauth.html) (Chinese).
 
 ## Step one: register the app
 

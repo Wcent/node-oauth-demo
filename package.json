@@ -1,10 +1,10 @@
 {
   "name": "node-oauth-demo",
   "version": "1.0.0",
-  "description": "a demo of OAuth2.0 using node",
+  "description": "a demo of OAuth2.0 using node, forked from ruanyf",
   "main": "index.js",
-  "repository": "https://githubb.com/ruanyf/node-oauth-demo",
-  "author": "Ruan Yifeng",
+  "repository": "https://githubb.com/Wcent/node-oauth-demo",
+  "author": "cent",
   "license": "MIT",
   "dependencies": {
     "axios": "^0.18.0",
